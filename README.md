@@ -2,19 +2,6 @@
 
 ![Bannière](./banniere.png)
 
-<p align="center">
-  <img src="./logo.png" alt="ArabiCompare logo" width="160" />
-</p>
-
-```
-    ___              __    _  ______                                   
-   /   |  _________ _/ /_  (_)/ ____/___  ____ ___  ____  ____ ________
-  / /| | / ___/ __ `/ __ \/ / /   / __ \/ __ `__ \/ __ \/ __ `/ ___/ _ \
- / ___ |/ /  / /_/ / /_/ / / /___/ /_/ / / / / / / /_/ / /_/ / /  /  __/
-/_/  |_/_/   \__,_/_.___/_/\____/\____/_/ /_/ /_/ .___/\__,_/_/   \___/
-                                                /_/                    
-```
-
 Outil console pour comparer intelligemment deux textes (arabe / français / bilingue), avec normalisation linguistique, diff coloré, mode translittération et exports.
 
 ## Installation
