@@ -2,11 +2,9 @@
 
 ![Bannière](./banniere.png)
 
-<p align="center">
-  <img src="./logo.png" alt="ArabiCompare logo" width="160" />
-</p>
+![Logo](./logo.png)
 
-```
+```text
     ___              __    _  ______                                   
    /   |  _________ _/ /_  (_)/ ____/___  ____ ___  ____  ____ ________
   / /| | / ___/ __ `/ __ \/ / /   / __ \/ __ `__ \/ __ \/ __ `/ ___/ _ \
